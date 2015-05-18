@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "underscore-plus": "~1.1.2",
-    "autocomplete-plus": "git://github.com/saschagehlich/autocomplete-plus.git#feature/api",
+    "autocomplete-plus": "git://github.com/atom/autocomplete-plus.git",
     "fs-plus": "2.x",
     "async": "~0.7.0",
     "pathwatcher": "~1.2.0",
